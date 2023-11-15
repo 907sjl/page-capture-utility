@@ -1,0 +1,69 @@
+Folder,File Name,URL,Orientation,Width,Height
+Referrals,Referral Process Measures,http://localhost:5005/referrals/cover,Portrait,8.5,11
+Referrals,Referral Process Measures,http://localhost:5005/referrals/scheduled,Portrait,8.5,11
+Referrals,Referral Process Measures,http://localhost:5005/referrals/seen,Portrait,8.5,11
+Referrals,Referral Process Measures,http://localhost:5005/referrals/routine,Portrait,8.5,11
+Referrals,Referral Process Measures,http://localhost:5005/referrals/urgent,Portrait,8.5,11
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Audiology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Audiology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Audiology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Cardiology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Cardiology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Cardiology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Dermatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Dermatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Dermatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Endocrinology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Endocrinology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Endocrinology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Gastroenterology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Gastroenterology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Gastroenterology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Hepatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Hepatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Hepatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Immunology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Immunology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Immunology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Internal Medicine,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Internal Medicine,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Internal Medicine,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Maternal Fetal Medicine,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Maternal Fetal Medicine,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Maternal Fetal Medicine,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Nephrology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Nephrology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Nephrology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Neurology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Neurology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Neurology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Oncology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Oncology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Oncology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Ophthalmology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Ophthalmology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Ophthalmology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Orthopedics,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Orthopedics,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Orthopedics,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Otolaryngology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Otolaryngology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Otolaryngology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Pain Management,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Pain Management,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Pain Management,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Podiatry,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Podiatry,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Podiatry,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Pulmonology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Pulmonology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Pulmonology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Rheumatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Rheumatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Rheumatology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Sleep Disorders Laboratory,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Sleep Disorders Laboratory,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Sleep Disorders Laboratory,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/referrals?Clinic=Urology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/pending?Clinic=Urology,Landscape,14,8.5
+Referrals,Referral Process Measures,http://localhost:5005/referrals/crm?Clinic=Urology,Landscape,14,8.5
