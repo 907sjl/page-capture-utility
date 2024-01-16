@@ -75,9 +75,8 @@ async def capture_pages(toc: DataFrame, dest_folder: str) -> None:
 
         for index, row in toc.iterrows():
             folder_name = row['Folder']
-            file_name = row['File Name']
+            file_name = row['File Name'] + '.pdf'
             page_url = row['URL']
-            # page_orientation = row['Orientation']
             width = row['Width'] + 'in'
             height = row['Height'] + 'in'
 
