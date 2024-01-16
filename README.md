@@ -36,3 +36,15 @@ It has five columns:
 5. **Height**: (Required) The height of this page in inches
 
 Each row in the table of contents file is intended to be a new PDF file with the image of an HTML page.    
+
+## Example    
+An example table of contents file, [referrals_example_toc](https://github.com/907sjl/page-capture-utility/blob/main/referrals_example_toc.csv), 
+can be found in the repository.  This example downloads pages from my sample Bokeh application in [referrals-bokeh](https://github.com/907sjl/referrals-bokeh). 
+You must be running the Bokeh application locally.    
+
+Pages from this application will be exported to individual PDF files.    
+
+The shell command to run this example is:
+```    
+python page_capture_utility.py referrals_example_toc.csv out 
+```    
